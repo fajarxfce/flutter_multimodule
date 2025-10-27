@@ -1,5 +1,6 @@
 name: domain
 description: "A new Flutter module project."
+resolution: workspace
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -73,7 +74,6 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
-
 
   # This section identifies your Flutter project as a module meant for
   # embedding in a native host app.  These identifiers should _not_ ordinarily
